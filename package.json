@@ -1,0 +1,16 @@
+{
+  "name": "gulp-estilo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-hapi": "^10.0.0",
+    "eslint-plugin-hapi": "^4.0.0",
+    "gulp-csslint": "^1.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-htmllint": "0.0.11",
+    "gulp-util": "^3.0.7",
+    "htmllint": "github:htmllint/htmllint",
+    "lazypipe": "^1.0.1"
+  }
+}
